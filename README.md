@@ -21,3 +21,11 @@ im gonna solve everyones basic nightmare and make a converter that converts cels
 # 1.3
 
 Made the converter that converts celsius to Fahrenheit (thank god)
+
+# Price with Taxes
+
+Going to make a app that applies a certain tax rate to prices its been given
+
+# 1.3
+
+I created a Tax monster... its self aware.... he says MOAH TAX 
