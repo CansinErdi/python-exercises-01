@@ -29,3 +29,7 @@ Going to make a app that applies a certain tax rate to prices its been given
 # 1.3
 
 I created a Tax monster... its self aware.... he says MOAH TAX 
+
+# oh my gawwwwdd
+
+![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwhat-have-i-done-gifs&psig=AOvVaw3ICAdcErImOpeBgUJUiDJh&ust=1727873682674000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLifhZqd7YgDFQAAAAAdAAAAABAE)
