@@ -26,7 +26,7 @@ Made the converter that converts celsius to Fahrenheit (thank god)
 
 Going to make a app that applies a certain tax rate to prices its been given
 
-# 1.3
+# 1.4
 
 I created a Tax monster... its self aware.... he says MOAH TAX 
 
