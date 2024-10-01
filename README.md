@@ -32,4 +32,4 @@ I created a Tax monster... its self aware.... he says MOAH TAX
 
 # oh my gawwwwdd
 
-![My Image](C:\Users\uberk\workspace\python\python-lernen\python-exercises-01\star-wars-anakin.gif)
+![My Image](https://github.com/CansinErdi/python-exercises-01/blob/main/star-wars-anakin.gif?raw=true)
